@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327526223620",
+    "firebase_url": "https://tatwamasi-temp.firebaseio.com",
+    "project_id": "tatwamasi-temp",
+    "storage_bucket": "tatwamasi-temp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327526223620:android:0beac9ad6c4f575da50a51",
+        "android_client_info": {
+          "package_name": "com.example.bg_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327526223620-hkkn5r80frefjl2h2ppaq9ri76651umu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe8GlUDoiLjSdU9n9xCOS17nZF1J5Z2-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327526223620-hkkn5r80frefjl2h2ppaq9ri76651umu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
